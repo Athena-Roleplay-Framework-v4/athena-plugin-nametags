@@ -1,6 +1,6 @@
 # Athena Plugin - Nametags
 
-A nametag display plugin for the Athena Framework compatible with `3.9.0` of the [Athena Framework](https://athenaframework.com/).
+A nametag display plugin for the Athena Framework compatible with `4.0.0` of the [Athena Framework](https://athenaframework.com/).
 
 Let other users know who you are.
 
@@ -18,12 +18,12 @@ cd src/core/plugins
 **SSH**
 
 ```
-git clone git@github.com:Stuyk/athena-plugin-nametags.git
+git clone git@github.com:Athena-Roleplay-Framework/athena-plugin-nametags.git
 ```
 
 **HTTPS**
 ```
-git clone https://github.com/Stuyk/athena-plugin-nametags
+git clone https://github.com/Athena-Roleplay-Framework/athena-plugin-nametags
 ```
 
 4. Start the Server

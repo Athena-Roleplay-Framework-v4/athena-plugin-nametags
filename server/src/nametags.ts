@@ -1,8 +1,8 @@
 import * as alt from 'alt-server';
 import NametagConfig from './config';
-import { PlayerEvents } from '../../../../server/events/playerEvents';
+import { PlayerEvents } from '@AthenaServer/events/playerEvents';
 import { NAMETAG_EVENTS } from '../../shared/enums';
-import { ATHENA_EVENTS_PLAYER } from '../../../../shared/enums/athenaEvents';
+import { ATHENA_EVENTS_PLAYER } from '@AthenaShared/enums/athenaEvents';
 
 /**
  * Send the configuration to the player.

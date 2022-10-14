@@ -1,8 +1,8 @@
 import * as alt from 'alt-client';
 import * as native from 'natives';
-import { Timer } from '../../../client/utility/timers';
-import { PLAYER_SYNCED_META } from '../../../shared/enums/playerSynced';
-import { distance2d } from '../../../shared/utility/vector';
+import { Timer } from '@AthenaClient/utility/timers';
+import { PLAYER_SYNCED_META } from '@AthenaShared/enums/playerSynced';
+import { distance2d } from '@AthenaShared/utility/vector';
 import { NAMETAG_EVENTS } from '../shared/enums';
 import { INametagConfig } from '../shared/interfaces';
 
